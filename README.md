@@ -7,7 +7,7 @@ This code automates the process using SymPy, ensuring that each step—from the 
 
 - Symbolic computation of the Christoffel symbols for a FRW metric
 - Symbolic derivation of the Ricci tensor and Einstein tensor
-- Automatic calculation of the Friedmann equations and cosmic acceleration equation
+- Calculation of the Friedmann equations and cosmic acceleration equation
 
 # Reference
 Carroll, S. M. Spacetime and Geometry: An Introduction to General Relativity. Addison-Wesley, 2004
