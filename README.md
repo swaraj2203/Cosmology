@@ -9,6 +9,7 @@ It is intended to serve as a structured workspace for research and data analyses
 ## Branches
 
 - **BSc-Thesis**: Contains the code and notebooks from the Bachelor thesis project.
+- **Friedmann_Equations**: Contains the code for the derivation of the Friedmann and Cosmic Acceleration Equation
 
 ## Contribution
 
